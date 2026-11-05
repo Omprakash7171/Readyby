@@ -1,0 +1,1 @@
+"""Participating cafés, their menus and the destinations customers travel to."""
